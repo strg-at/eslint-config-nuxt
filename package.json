@@ -1,0 +1,36 @@
+{
+  "name": "@strg/eslint-config-nuxt",
+  "version": "1.0.0-beta.1",
+  "description": "Nuxt ESLint configuration for STRG.",
+  "author": "STRG.",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strg-at/eslint-config-nuxt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strg-at/eslint-config-nuxt/issues"
+  },
+  "homepage": "https://github.com/strg-at/eslint-config-nuxt#readme",
+  "keywords": [
+    "check",
+    "enforce",
+    "lint",
+    "policy",
+    "quality",
+    "style",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "code format",
+    "style checker",
+    "style linter"
+  ]
+}
