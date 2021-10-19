@@ -1,6 +1,6 @@
 {
   "name": "@strg/eslint-config-nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nuxt ESLint configuration for STRG.",
   "author": "STRG.",
   "license": "MIT",
