@@ -37,7 +37,7 @@
     "eslint": "^7.32.0"
   },
   "dependencies": {
-    "@nuxtjs/eslint-config": "^6.0.1",
+    "@nuxtjs/eslint-config": "^10.0.0",
     "eslint-plugin-nuxt": "^2.0.0"
   },
   "devDependencies": {
