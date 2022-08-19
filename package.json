@@ -34,14 +34,14 @@
     "style linter"
   ],
   "peerDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.0.0"
   },
   "dependencies": {
     "@nuxtjs/eslint-config": "^10.0.0",
-    "eslint-plugin-nuxt": "^2.0.0"
+    "eslint-plugin-nuxt": "^3.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
+    "eslint": "^8.0.0",
     "typescript": "^4.4.4"
   }
 }
